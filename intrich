@@ -1,0 +1,729 @@
+<div style="width: 1920px; height: 7372px; position: relative; background: white">
+    <div style="width: 1920px; padding-left: 220px; padding-right: 220px; padding-top: 140px; padding-bottom: 140px; left: 0px; top: 56px; position: absolute; background: #043873; justify-content: flex-start; align-items: center; display: inline-flex">
+      <div style="width: 2651.80px; height: 640.04px; position: relative; opacity: 0.30">
+        <div style="width: 2577.76px; height: 454.20px; left: 74.04px; top: 185.84px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2576.75px; height: 451.05px; left: 71.16px; top: 174.56px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2575.78px; height: 448.27px; left: 68.24px; top: 163.25px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2574.86px; height: 450.99px; left: 65.29px; top: 151.87px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2573.97px; height: 459.97px; left: 62.29px; top: 140.46px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2573.13px; height: 469.01px; left: 59.25px; top: 129px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2572.34px; height: 478.08px; left: 56.16px; top: 117.50px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2571.59px; height: 487.20px; left: 53.03px; top: 105.95px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2570.91px; height: 496.37px; left: 49.83px; top: 94.36px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2570.29px; height: 505.59px; left: 46.56px; top: 82.71px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2569.75px; height: 514.84px; left: 43.21px; top: 71.03px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2569.30px; height: 524.14px; left: 39.79px; top: 59.30px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2568.93px; height: 533.49px; left: 36.27px; top: 47.53px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2568.68px; height: 542.87px; left: 32.64px; top: 35.72px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2568.54px; height: 552.31px; left: 28.90px; top: 23.85px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2568.54px; height: 561.79px; left: 25.02px; top: 11.95px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2568.69px; height: 571.31px; left: 20.99px; top: 0px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2567.90px; height: 516.93px; left: 19.65px; top: 35.68px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2567.12px; height: 462.68px; left: 18.31px; top: 71.22px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2566.33px; height: 408.70px; left: 16.97px; top: 106.49px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2565.53px; height: 356.50px; left: 15.64px; top: 139.97px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2564.73px; height: 312.88px; left: 14.34px; top: 164.88px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2563.90px; height: 307.05px; left: 13.05px; top: 163.23px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2563.04px; height: 319.47px; left: 11.79px; top: 152.11px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2562.17px; height: 334.51px; left: 10.56px; top: 139.86px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2561.26px; height: 351.58px; left: 9.35px; top: 126.42px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2560.34px; height: 370.20px; left: 8.15px; top: 111.95px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2559.51px; height: 390.28px; left: 6.88px; top: 96.44px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2558.78px; height: 411.47px; left: 5.48px; top: 80.05px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2558.05px; height: 433.67px; left: 4.09px; top: 62.88px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2557.30px; height: 457.82px; left: 2.73px; top: 45.03px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2556.56px; height: 512.03px; left: 1.36px; top: 26.68px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2555.79px; height: 566.76px; left: 0px; top: 7.82px; position: absolute; background: #FFE492"></div>
+      </div>
+      <div style="width: 1270px; height: 690px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
+        <div style="height: 673px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+          <div style="width: 812px; height: 593px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+            <div style="align-self: stretch; color: white; font-size: 56px; font-family: Roboto; font-weight: 700; line-height: 67.20px; word-wrap: break-word">Aplikasi Beli Kuota Internet Tanpa Koneksi</div>
+            <div style="align-self: stretch; color: white; font-size: 48px; font-family: Roboto; font-weight: 400; line-height: 72px; word-wrap: break-word">Dengan IntRich, Anda dapat membeli kuota internet kapan saja, bahkan saat offline. Nikmati kemudahan dan kepraktisan dalam mengelola kebutuhan internet Anda tanpa batasan.</div>
+          </div>
+          <div style="justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+            <div style="padding-left: 24px; padding-right: 24px; padding-top: 12px; padding-bottom: 12px; background: white; border: 1px white solid; justify-content: center; align-items: center; gap: 8px; display: flex">
+              <div style="color: black; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Pelajari</div>
+            </div>
+            <div style="padding-left: 24px; padding-right: 24px; padding-top: 12px; padding-bottom: 12px; border: 1px white solid; justify-content: center; align-items: center; gap: 8px; display: flex">
+              <div style="color: white; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Daftar</div>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 20px; background: #4F9CF9; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+          <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Coba InTrich Sekarang</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 10px; height: 0px; left: 0px; top: 5px; position: absolute; border: 1px white solid"></div>
+            <div style="width: 5px; height: 10px; left: 5px; top: 0px; position: absolute; border: 1px white solid"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 1920px; padding-left: 220px; padding-right: 220px; padding-top: 16px; padding-bottom: 16px; left: 0px; top: 0px; position: absolute; background: #043873; justify-content: space-between; align-items: center; display: inline-flex">
+      <div style="height: 34px; justify-content: space-between; align-items: center; display: flex">
+        <div style="color: white; font-size: 28px; font-family: Inter; font-weight: 700; word-wrap: break-word">IntRich</div>
+      </div>
+      <div style="justify-content: flex-start; align-items: center; gap: 60px; display: flex">
+        <div style="height: 24px; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+          <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <div style="color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 23px; word-wrap: break-word">Products</div>
+            <div style="padding: 10px; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+              <div style="width: 9px; height: 4px; border: 1px white solid"></div>
+            </div>
+          </div>
+          <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <div style="color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 23px; word-wrap: break-word">Solutions</div>
+            <div style="padding: 10px; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+              <div style="width: 9px; height: 4px; border: 1px white solid"></div>
+            </div>
+          </div>
+          <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <div style="color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 23px; word-wrap: break-word">Resources</div>
+            <div style="padding: 10px; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+              <div style="width: 9px; height: 4px; border: 1px white solid"></div>
+            </div>
+          </div>
+          <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <div style="color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 23px; word-wrap: break-word">Pricing</div>
+            <div style="padding: 10px; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+              <div style="width: 9px; height: 4px; border: 1px white solid"></div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 323px; justify-content: flex-end; align-items: flex-start; gap: 24px; display: flex">
+          <div style="width: 126px; padding-left: 40px; padding-right: 40px; padding-top: 16px; padding-bottom: 16px; background: #FFE492; border-radius: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+            <div style="color: #043873; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Login</div>
+          </div>
+          <div style="width: 173px; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: #4F9CF9; border-radius: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+            <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Coba InTrich</div>
+            <div style="justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+              <div style="width: 10px; height: 10px; position: relative">
+                <div style="width: 10px; height: 0px; left: 0px; top: 5px; position: absolute; border: 1px white solid"></div>
+                <div style="width: 5px; height: 10px; left: 5px; top: 0px; position: absolute; border: 1px white solid"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 1921px; height: 1018px; padding-left: 220px; padding-right: 220px; padding-top: 140px; padding-bottom: 140px; left: 0px; top: 2297px; position: absolute; background: #043873; justify-content: flex-start; align-items: center; gap: 98px; display: inline-flex">
+      <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+        <div style="align-self: stretch; height: 496px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+          <div style="align-self: stretch; height: 326px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div style="justify-content: flex-start; align-items: center; display: inline-flex">
+              <div style="color: rgba(219.80, 235.20, 253.80, 0); font-size: 16px; font-family: Roboto; font-weight: 600; line-height: 24px; word-wrap: break-word">Mudah</div>
+            </div>
+            <div style="align-self: stretch; height: 286px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+              <div style="align-self: stretch; color: #C4DEFD; font-size: 64px; font-family: Roboto; font-weight: 700; line-height: 76.80px; word-wrap: break-word">Manfaat Menggunakan Aplikasi IntRich</div>
+              <div style="align-self: stretch; color: #C4DEFD; font-size: 24px; font-family: Roboto; font-weight: 400; line-height: 36px; word-wrap: break-word">Dengan IntRich, Anda dapat membeli kuota internet kapan saja, bahkan saat offline. Ini memberikan kemudahan dan efisiensi waktu yang tak tertandingi.</div>
+            </div>
+          </div>
+          <div style="align-self: stretch; height: 138px; padding-top: 8px; padding-bottom: 8px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div style="width: 16px; height: 16px; padding-left: 2px; padding-right: 2px; padding-top: 1.33px; padding-bottom: 1.33px; justify-content: center; align-items: center; display: flex">
+                <div style="width: 12px; height: 13.33px; background: #8ABDFB"></div>
+              </div>
+              <div style="flex: 1 1 0; color: #6CACFA; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 30px; word-wrap: break-word">Akses tanpa batas, kapan saja dan di mana saja.</div>
+            </div>
+            <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div style="width: 16px; height: 16px; padding-left: 2px; padding-right: 2px; padding-top: 1.33px; padding-bottom: 1.33px; justify-content: center; align-items: center; display: flex">
+                <div style="width: 12px; height: 13.33px; background: #8ABDFB"></div>
+              </div>
+              <div style="flex: 1 1 0; color: #6CACFA; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 30px; word-wrap: break-word">Pembayaran otomatis, tanpa khawatir kehabisan kuota.</div>
+            </div>
+            <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div style="width: 16px; height: 16px; padding-left: 2px; padding-right: 2px; padding-top: 1.33px; padding-bottom: 1.33px; justify-content: center; align-items: center; display: flex">
+                <div style="width: 12px; height: 13.33px; background: #8ABDFB"></div>
+              </div>
+              <div style="flex: 1 1 0; color: #6CACFA; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 30px; word-wrap: break-word">Ketenangan pikiran saat menggunakan layanan kami.</div>
+            </div>
+          </div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 24px; display: inline-flex">
+          <div style="width: 193px; height: 80px; padding-left: 24px; padding-right: 24px; padding-top: 12px; padding-bottom: 12px; border: 1px #6CACFA solid; justify-content: center; align-items: center; gap: 8px; display: flex">
+            <div style="color: #4F9CF9; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Pelajari</div>
+          </div>
+          <div style="justify-content: center; align-items: center; gap: 8px; display: flex">
+            <div style="color: #4F9CF9; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Daftar</div>
+            <div style="width: 24px; height: 24px; padding-top: 5.54px; padding-bottom: 7.05px; padding-left: 8.29px; padding-right: 8.59px; justify-content: center; align-items: center; display: flex">
+              <div style="width: 7.12px; height: 11.41px; background: #C4DEFD"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+        <div style="width: 686px; height: 479px; background: #C4DEFD; justify-content: center; align-items: center; display: inline-flex">
+          <img style="flex: 1 1 0; height: 515px" src="https://via.placeholder.com/686x515" />
+        </div>
+      </div>
+    </div>
+    <div style="width: 1476px; height: 171px; left: 244px; top: 3408px; position: absolute; background: rgba(219.80, 235.20, 253.80, 0); flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 64px; display: inline-flex">
+      <div style="align-self: stretch; height: 320px; justify-content: center; align-items: flex-start; gap: 48px; display: inline-flex">
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+          <div style="align-self: stretch; height: 369px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+            <div style="width: 48px; height: 48px; padding-left: 6px; padding-right: 6px; padding-top: 4px; padding-bottom: 4px; justify-content: center; align-items: center; display: inline-flex">
+              <div style="width: 36px; height: 40px; background: black"></div>
+            </div>
+            <div style="align-self: stretch; color: black; font-size: 48px; font-family: Roboto; font-weight: 700; line-height: 67.20px; word-wrap: break-word">Pembelian Kuota Offline yang Mudah dan Praktis</div>
+            <div style="align-self: stretch; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; line-height: 36px; word-wrap: break-word">Beli kuota kapan saja, tanpa perlu koneksi internet.</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+          <div style="align-self: stretch; height: 369px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+            <div style="width: 48px; height: 48px; padding-left: 6px; padding-right: 6px; padding-top: 4px; padding-bottom: 4px; justify-content: center; align-items: center; display: inline-flex">
+              <div style="width: 36px; height: 40px; background: black"></div>
+            </div>
+            <div style="align-self: stretch; color: black; font-size: 48px; font-family: Roboto; font-weight: 700; line-height: 67.20px; word-wrap: break-word">Sistem Penangguhan untuk Pembelian yang Fleksibel</div>
+            <div style="align-self: stretch; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; line-height: 36px; word-wrap: break-word">Aktivitas pembelian Anda akan dicatat dan dibayar saat online.</div>
+          </div>
+          <div style="align-self: stretch; height: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+            <div style="justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+          <div style="align-self: stretch; height: 436px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+            <div style="width: 48px; height: 48px; padding-left: 6px; padding-right: 6px; padding-top: 4px; padding-bottom: 4px; justify-content: center; align-items: center; display: inline-flex">
+              <div style="width: 36px; height: 40px; background: black"></div>
+            </div>
+            <div style="align-self: stretch; color: black; font-size: 48px; font-family: Roboto; font-weight: 700; line-height: 67.20px; word-wrap: break-word">Pembayaran Otomatis yang Menguntungkan Pengguna</div>
+            <div style="align-self: stretch; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; line-height: 36px; word-wrap: break-word">Pembayaran kuota dilakukan otomatis sesuai dengan penggunaan Anda.</div>
+          </div>
+          <div style="align-self: stretch; height: 24px"></div>
+        </div>
+      </div>
+    </div>
+    <div style="height: 490px; padding-left: 220px; padding-right: 220px; padding-top: 140px; padding-bottom: 140px; left: 0px; top: 3952px; position: absolute; background: #043873; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+      <div style="align-self: stretch; height: 210px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 60px; display: flex">
+        <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+          <div style="align-self: stretch; color: white; font-size: 72px; font-family: Inter; font-weight: 700; word-wrap: break-word">you are connected wherever you are</div>
+          <div style="width: 363.32px; height: 12.19px; position: relative">
+            <div style="width: 361.24px; height: 12.19px; left: 0px; top: 0px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 9.72px; height: 0.32px; left: 26.37px; top: 3.14px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 4.57px; height: 0.15px; left: 345.69px; top: 6.49px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 3.64px; height: 0.13px; left: 339.91px; top: 6.40px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 4.34px; height: 0.15px; left: 109.85px; top: 0.92px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 2.45px; height: 0.15px; left: 9.84px; top: 4.36px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 3.07px; height: 0.12px; left: 270.48px; top: 4.35px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 2.10px; height: 0.13px; left: 361.25px; top: 8.75px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 2.36px; height: 0.10px; left: 201.96px; top: 0.07px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 2.01px; height: 0.09px; left: 354.93px; top: 6.67px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 1.49px; height: 0.12px; left: 278.90px; top: 4.45px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 1.51px; height: 0.08px; left: 343.51px; top: 6.47px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 1.48px; height: 0.08px; left: 306.32px; top: 5.63px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 1.51px; height: 0.08px; left: 304.14px; top: 5.61px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 1.51px; height: 0.08px; left: 276.19px; top: 4.44px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 1.50px; height: 0.08px; left: 274.69px; top: 4.41px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 1.36px; height: 0.08px; left: 301.89px; top: 0.59px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 0.99px; height: 0.07px; left: 107.82px; top: 1.04px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 1.02px; height: 0.07px; left: 354.03px; top: 6.65px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 0.85px; height: 0.07px; left: 280.93px; top: 4.48px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 0.99px; height: 0.07px; left: 12.17px; top: 4.33px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 0.88px; height: 0.07px; left: 115.33px; top: 0.88px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 0.38px; height: 0.06px; left: 352.98px; top: 6.62px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 0.51px; height: 0.06px; left: 20.66px; top: 11.63px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 0.50px; height: 0.05px; left: 282.73px; top: 3.94px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 0.50px; height: 0.05px; left: 281.15px; top: 3.91px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 0.50px; height: 0.05px; left: 279.65px; top: 3.94px; position: absolute; background: #4F9CF9"></div>
+            <div style="width: 0.38px; height: 0.06px; left: 278.60px; top: 3.89px; position: absolute; background: #4F9CF9"></div>
+          </div>
+        </div>
+        <div style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; background: #4F9CF9; border-radius: 8px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+          <div style="width: 680.74px; height: 691.34px; position: relative; transform: rotate(-105deg); transform-origin: 0 0">
+            <div style="width: 680.74px; height: 691.34px; left: 0px; top: 0px; position: absolute; transform: rotate(-105deg); transform-origin: 0 0; background: #A7CEFC"></div>
+            <div style="width: 585.90px; height: 585.59px; left: 50.45px; top: -68.21px; position: absolute; transform: rotate(-105deg); transform-origin: 0 0; background: #A7CEFC"></div>
+            <div style="width: 499.13px; height: 494.57px; left: 94.49px; top: -128.61px; position: absolute; transform: rotate(-105deg); transform-origin: 0 0; background: #A7CEFC"></div>
+            <div style="width: 421px; height: 412.33px; left: 134.34px; top: -182.12px; position: absolute; transform: rotate(-105deg); transform-origin: 0 0; background: #A7CEFC"></div>
+            <div style="width: 350.50px; height: 341.98px; left: 166.65px; top: -227.88px; position: absolute; transform: rotate(-105deg); transform-origin: 0 0; background: #A7CEFC"></div>
+            <div style="width: 287.53px; height: 279.81px; left: 194.46px; top: -267.10px; position: absolute; transform: rotate(-105deg); transform-origin: 0 0; background: #A7CEFC"></div>
+            <div style="width: 230.70px; height: 224.22px; left: 218.14px; top: -301.17px; position: absolute; transform: rotate(-105deg); transform-origin: 0 0; background: #A7CEFC"></div>
+            <div style="width: 179.57px; height: 174.55px; left: 238.27px; top: -330.48px; position: absolute; transform: rotate(-105deg); transform-origin: 0 0; background: #A7CEFC"></div>
+            <div style="width: 133.14px; height: 129.66px; left: 255.48px; top: -356.11px; position: absolute; transform: rotate(-105deg); transform-origin: 0 0; background: #A7CEFC"></div>
+            <div style="width: 89.39px; height: 87.33px; left: 271.10px; top: -380.40px; position: absolute; transform: rotate(-105deg); transform-origin: 0 0; background: #A7CEFC"></div>
+            <div style="width: 47.08px; height: 46.21px; left: 285.91px; top: -404.61px; position: absolute; transform: rotate(-105deg); transform-origin: 0 0; background: #A7CEFC"></div>
+          </div>
+          <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Pelajari</div>
+          <div style="justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+            <div style="width: 14px; height: 14px; position: relative">
+              <div style="width: 14px; height: 0px; left: 0px; top: 7px; position: absolute; border: 1px white solid"></div>
+              <div style="width: 7px; height: 14px; left: 7px; top: 0px; position: absolute; border: 1px white solid"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 1920px; padding-left: 220px; padding-right: 220px; padding-top: 140px; padding-bottom: 140px; left: 9px; top: 6145px; position: absolute; background: #043873; justify-content: flex-start; align-items: flex-start; gap: 100px; display: inline-flex">
+      <div style="width: 2041.06px; height: 700.40px; position: relative; opacity: 0.30">
+        <div style="width: 1984.07px; height: 497.04px; left: 56.99px; top: 203.36px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1983.30px; height: 493.59px; left: 54.77px; top: 191.03px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1982.55px; height: 490.54px; left: 52.52px; top: 178.65px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1981.85px; height: 493.52px; left: 50.25px; top: 166.20px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1981.16px; height: 503.35px; left: 47.94px; top: 153.71px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1980.51px; height: 513.24px; left: 45.61px; top: 141.16px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1979.90px; height: 523.17px; left: 43.23px; top: 128.58px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1979.32px; height: 533.15px; left: 40.81px; top: 115.94px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1978.81px; height: 543.18px; left: 38.35px; top: 103.26px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1978.33px; height: 553.27px; left: 35.83px; top: 90.51px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1977.91px; height: 563.40px; left: 33.26px; top: 77.73px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1977.56px; height: 573.58px; left: 30.63px; top: 64.90px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1977.28px; height: 583.80px; left: 27.91px; top: 52.01px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1977.09px; height: 594.07px; left: 25.13px; top: 39.09px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1976.98px; height: 604.40px; left: 22.24px; top: 26.10px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1976.98px; height: 614.78px; left: 19.26px; top: 13.07px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1977.09px; height: 625.19px; left: 16.16px; top: -0px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1976.49px; height: 565.68px; left: 15.13px; top: 39.04px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1975.89px; height: 506.31px; left: 14.10px; top: 77.94px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1975.27px; height: 447.25px; left: 13.06px; top: 116.53px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1974.66px; height: 390.13px; left: 12.04px; top: 153.17px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1974.04px; height: 342.39px; left: 11.04px; top: 180.43px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1973.40px; height: 336.01px; left: 10.05px; top: 178.63px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1972.75px; height: 349.60px; left: 9.07px; top: 166.45px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1972.07px; height: 366.05px; left: 8.13px; top: 153.05px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1971.38px; height: 384.73px; left: 7.20px; top: 138.34px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1970.67px; height: 405.11px; left: 6.27px; top: 122.51px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1970.03px; height: 427.08px; left: 5.29px; top: 105.53px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1969.46px; height: 450.28px; left: 4.22px; top: 87.60px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1968.90px; height: 474.57px; left: 3.15px; top: 68.81px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1968.33px; height: 501px; left: 2.10px; top: 49.27px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1967.76px; height: 560.32px; left: 1.05px; top: 29.20px; position: absolute; background: #A1A1A1"></div>
+        <div style="width: 1967.16px; height: 620.21px; left: 0px; top: 8.55px; position: absolute; background: #A1A1A1"></div>
+      </div>
+      <div style="width: 582px; height: 470.80px; position: relative">
+        <div style="width: 291px; height: 291px; left: 139.26px; top: 34.30px; position: absolute; border-radius: 9999px; border: 2px #4F9CF9 dotted"></div>
+        <div style="width: 291px; height: 291px; left: 36.38px; top: 179.80px; position: absolute; border-radius: 9999px; border: 2px #4F9CF9 dotted"></div>
+        <div style="width: 291px; height: 291px; left: 254.62px; top: 179.80px; position: absolute; border-radius: 9999px; border: 2px #4F9CF9 dotted"></div>
+        <div style="width: 72.75px; height: 72.75px; left: 392.85px; top: 146.54px; position: absolute">
+          <div style="width: 72.75px; height: 72.75px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+          <div style="width: 43.65px; height: 43.65px; left: 14.55px; top: 14.55px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+            <div style="width: 43.65px; height: 43.65px; position: relative">
+              <div style="width: 9.13px; height: 20.55px; left: 11.41px; top: 23.10px; position: absolute; background: #FF4340"></div>
+              <div style="width: 8.84px; height: 8.84px; left: 0.01px; top: 23.10px; position: absolute; background: #FF4340"></div>
+              <div style="width: 20.55px; height: 9.13px; left: 0px; top: 11.41px; position: absolute; background: #36C6FF"></div>
+              <div style="width: 8.84px; height: 8.84px; left: 11.71px; top: 0.01px; position: absolute; background: #36C6FF"></div>
+              <div style="width: 9.13px; height: 20.55px; left: 23.10px; top: 0px; position: absolute; background: #0DC46E"></div>
+              <div style="width: 8.84px; height: 8.84px; left: 34.79px; top: 11.70px; position: absolute; background: #0DC46E"></div>
+              <div style="width: 20.55px; height: 20.53px; left: 23.10px; top: 23.10px; position: absolute">
+                <div style="width: 20.55px; height: 9.13px; left: 0px; top: 0px; position: absolute; background: #FDCB02"></div>
+                <div style="width: 8.84px; height: 8.84px; left: 0px; top: 11.69px; position: absolute; background: #FDCB02"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 72.75px; height: 72.75px; left: 0px; top: 277.49px; position: absolute">
+          <div style="width: 72.75px; height: 72.75px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+          <div style="width: 43.65px; height: 43.65px; left: 14.55px; top: 14.55px; position: absolute">
+            <div style="width: 21.83px; height: 24.55px; left: 21.82px; top: 9.55px; position: absolute; background: #1976D2"></div>
+            <div style="width: 24.55px; height: 40.92px; left: 0px; top: 1.36px; position: absolute; background: #2196F3"></div>
+            <div style="width: 13.64px; height: 16.37px; left: 5.46px; top: 15.01px; position: absolute; background: #FAFAFA"></div>
+          </div>
+        </div>
+        <div style="width: 72.75px; height: 72.75px; left: 509.25px; top: 277.49px; position: absolute">
+          <div style="width: 72.75px; height: 72.75px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+          <div style="width: 43.65px; height: 43.65px; padding-top: 2.63px; padding-bottom: 2.63px; left: 14.55px; top: 14.55px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+            <div style="width: 43.65px; height: 38.39px; position: relative">
+              <div style="width: 23.07px; height: 38px; left: -0px; top: 0.20px; position: absolute; background: #59C36A"></div>
+              <div style="width: 28.18px; height: 33.27px; left: 15.46px; top: 0px; position: absolute; background: #FFDA2D"></div>
+              <div style="width: 21.86px; height: 33.27px; left: 21.79px; top: 0px; position: absolute; background: #FDBF00"></div>
+              <div style="width: 37.47px; height: 11.52px; left: 6.18px; top: 26.87px; position: absolute; background: #4086F4"></div>
+              <div style="width: 21.86px; height: 11.52px; left: 21.79px; top: 26.87px; position: absolute; background: #4175DF"></div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 72.75px; height: 72.75px; left: 102.89px; top: 146.54px; position: absolute">
+          <div style="width: 72.75px; height: 72.75px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+          <div style="width: 43.65px; height: 43.65px; padding-top: 2.34px; padding-bottom: 2.34px; left: 14.55px; top: 14.55px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+            <div style="width: 43.65px; height: 38.97px; position: relative">
+              <div style="width: 13.25px; height: 15.59px; left: 8.57px; top: 23.38px; position: absolute; background: #0093EB"></div>
+              <div style="width: 20.34px; height: 14.65px; left: 1.48px; top: 14.03px; position: absolute; background: #0093EB"></div>
+              <div style="width: 22.60px; height: 14.03px; left: 0px; top: 0px; position: absolute; background: #0093EB"></div>
+              <div style="width: 13.25px; height: 15.59px; left: 21.82px; top: 23.38px; position: absolute; background: #0093EB"></div>
+              <div style="width: 20.34px; height: 14.65px; left: 21.82px; top: 13.72px; position: absolute; background: #0093EB"></div>
+              <div style="width: 21.05px; height: 13.72px; left: 22.60px; top: 0px; position: absolute; background: #0093EB"></div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 72.75px; height: 72.75px; left: 254.62px; top: 380.38px; position: absolute">
+          <div style="width: 72.75px; height: 72.75px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+          <div style="width: 43.65px; height: 43.65px; padding-left: 0.04px; padding-right: 0.04px; left: 14.55px; top: 14.55px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+            <div style="width: 43.58px; height: 43.65px; position: relative">
+              <div style="width: 38.36px; height: 12.96px; left: 2.64px; top: 0px; position: absolute; background: #E3E7EA"></div>
+              <div style="width: 19.18px; height: 12.96px; left: 21.82px; top: 0px; position: absolute; background: #BABAC0"></div>
+              <div style="width: 43.58px; height: 38.53px; left: 0px; top: 5.12px; position: absolute">
+                <div style="width: 43.58px; height: 33.25px; left: 0px; top: 5.29px; position: absolute; background: #4086F4"></div>
+                <div style="width: 43.58px; height: 16.62px; left: 0px; top: 5.29px; position: absolute; background: #4175DF"></div>
+                <div style="width: 2.56px; height: 2.56px; left: 7.72px; top: 0px; position: absolute; background: #FFF5F5"></div>
+                <div style="width: 2.56px; height: 2.56px; left: 33.30px; top: 0px; position: absolute; background: #E3E7EA"></div>
+                <div style="width: 10.01px; height: 17.90px; left: 11.78px; top: 12.96px; position: absolute; background: #FFF5F5"></div>
+                <div style="width: 10.01px; height: 8.95px; left: 11.78px; top: 12.96px; position: absolute; background: #E3E7EA"></div>
+                <div style="width: 6.39px; height: 17.90px; left: 24.35px; top: 12.96px; position: absolute; background: #FFF5F5"></div>
+                <div style="width: 6.39px; height: 8.95px; left: 24.35px; top: 12.96px; position: absolute; background: #E3E7EA"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 72.75px; height: 72.75px; left: 251.51px; top: 0px; position: absolute">
+          <div style="width: 72.75px; height: 72.75px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+          <div style="width: 43.65px; height: 43.65px; left: 14.55px; top: 14.55px; position: absolute">
+            <div style="width: 32.74px; height: 32.74px; left: 5.46px; top: 5.46px; position: absolute; background: #ECEFF1"></div>
+            <div style="width: 16.37px; height: 25.52px; left: 21.82px; top: 12.67px; position: absolute; background: #CFD8DC"></div>
+            <div style="width: 43.65px; height: 32.74px; left: 0px; top: 5.46px; position: absolute; background: #F44336"></div>
+          </div>
+        </div>
+        <div style="width: 103.93px; height: 103.93px; left: 238px; top: 226.56px; position: absolute; background: white; border-radius: 9999px"></div>
+        <div style="width: 51px; height: 39px; left: 265px; top: 263px; position: absolute">
+          <div style="width: 51px; height: 15.45px; left: 0px; top: 0px; position: absolute">
+            <div style="width: 16.71px; height: 15.45px; left: 0px; top: 0px; position: absolute; background: #5986EF"></div>
+            <div style="width: 16.70px; height: 15.43px; left: 34.30px; top: 0px; position: absolute; background: #5986EF"></div>
+          </div>
+          <div style="width: 51px; height: 35.58px; left: 0px; top: 3.42px; position: absolute; background: #5986EF"></div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; padding: 48px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 32px; display: inline-flex">
+        <div style="align-self: stretch; height: 109px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+          <div style="align-self: stretch; color: rgba(219.80, 235.20, 253.80, 0); font-size: 48px; font-family: Roboto; font-weight: 700; line-height: 57.60px; word-wrap: break-word">Unduh Aplikasi Intrich Sekarang</div>
+          <div style="align-self: stretch; color: rgba(219.80, 235.20, 253.80, 0); font-size: 18px; font-family: Roboto; font-weight: 400; line-height: 27px; word-wrap: break-word">Dapatkan kemudahan membeli kuota internet kapan saja, meski tanpa koneksi internet.</div>
+        </div>
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="padding-left: 24px; padding-right: 24px; padding-top: 12px; padding-bottom: 12px; background: #C4DEFD; border: 1px #C4DEFD solid; justify-content: center; align-items: center; gap: 8px; display: flex">
+            <div style="color: #4F9CF9; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Pelajari</div>
+          </div>
+          <div style="padding-left: 24px; padding-right: 24px; padding-top: 12px; padding-bottom: 12px; border: 1px #C4DEFD solid; justify-content: center; align-items: center; gap: 8px; display: flex">
+            <div style="color: #C4DEFD; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Daftar</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 1920px; height: 1271px; padding-top: 112px; padding-left: 64px; padding-right: 64px; left: 2px; top: 1026px; position: absolute; background: rgba(65.83, 130, 207.50, 0.73); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px rgba(0, 0, 0, 0) solid; flex-direction: column; justify-content: flex-start; align-items: center; gap: 80px; display: inline-flex">
+      <div style="padding-top: 75px"></div>
+      <div style="width: 1384px; height: 389px; border: 5px white solid; flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+        <div style="height: 389px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+          <div style="width: 1156px; text-align: center; color: #3568A6; font-size: 64px; font-family: Roboto; font-weight: 700; line-height: 76.80px; word-wrap: break-word">Cara Kerja Aplikasi IntRich yang Inovatif</div>
+          <div style="width: 1230px; text-align: center; color: #3568A6; font-size: 48px; font-family: Roboto; font-weight: 400; line-height: 72px; word-wrap: break-word">Aplikasi IntRich memungkinkan Anda membeli kuota internet tanpa perlu koneksi. Dengan sistem penangguhan, semua aktivitas Anda akan tercatat dan dibayar saat online.</div>
+        </div>
+      </div>
+      <div style="height: 662px; background: rgba(167, 205.50, 252, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 12px; border: 15px rgba(255, 255, 255, 0) solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 64px; display: flex">
+        <div style="width: 1312px; justify-content: center; align-items: flex-start; gap: 48px; display: inline-flex">
+          <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+            <img style="align-self: stretch; height: 240px; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 15px white solid" src="https://via.placeholder.com/405x240" />
+            <div style="align-self: stretch; height: 328px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+              <div style="align-self: stretch; text-align: center; color: white; font-size: 48px; font-family: Roboto; font-weight: 700; line-height: 62.40px; word-wrap: break-word">Fitur Utama Aplikasi Intrich</div>
+              <div style="align-self: stretch; text-align: center; color: white; font-size: 40px; font-family: Roboto; font-weight: 400; line-height: 60px; word-wrap: break-word">Aplikasi ini mencatat pembelian kuota secara otomatiss.</div>
+            </div>
+          </div>
+          <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+            <img style="align-self: stretch; height: 240px; border: 15px white solid" src="https://via.placeholder.com/405x240" />
+            <div style="align-self: stretch; height: 390px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+              <div style="align-self: stretch; text-align: center; color: white; font-size: 48px; font-family: Roboto; font-weight: 700; line-height: 62.40px; word-wrap: break-word">Pembayaran Tagihan yang Mudah dan Efisien</div>
+              <div style="align-self: stretch; text-align: center; color: white; font-size: 40px; font-family: Roboto; font-weight: 400; line-height: 60px; word-wrap: break-word">Tagihan Anda akan dibayar otomatis dari kuota.</div>
+            </div>
+          </div>
+          <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+            <img style="align-self: stretch; height: 240px; border: 15px white solid" src="https://via.placeholder.com/405x240" />
+            <div style="align-self: stretch; height: 390px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+              <div style="align-self: stretch; text-align: center; color: white; font-size: 48px; font-family: Roboto; font-weight: 700; line-height: 62.40px; word-wrap: break-word">Sistem Bunga untuk Pembayaran yang Terlambat</div>
+              <div style="align-self: stretch; text-align: center; color: white; font-size: 40px; font-family: Roboto; font-weight: 400; line-height: 60px; word-wrap: break-word">Bunga akan dikenakan jika tagihan tidak dibayar.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 1610px; height: 638px; padding-left: 64px; padding-right: 64px; padding-top: 112px; padding-bottom: 112px; left: 210px; top: 4565px; position: absolute; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 80px; display: inline-flex">
+      <div style="align-self: stretch; background: linear-gradient(90deg, rgba(245, 245, 245, 0.23) 0%, rgba(0, 122, 255, 0.03) 89%, rgba(0, 122, 255, 0.03) 89%); backdrop-filter: blur(4px); justify-content: flex-start; align-items: center; gap: 80px; display: inline-flex">
+        <div style="width: 616px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+          <div style="align-self: stretch; height: 319px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div style="justify-content: flex-start; align-items: center; display: inline-flex">
+              <div style="color: black; font-size: 16px; font-family: Roboto; font-weight: 600; line-height: 24px; word-wrap: break-word">Statistik</div>
+            </div>
+            <div style="align-self: stretch; height: 279px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+              <div style="align-self: stretch; color: black; font-size: 48px; font-family: Roboto; font-weight: 700; line-height: 57.60px; word-wrap: break-word">Keberhasilan Aplikasi Intrich dalam Memecahkan Masalah</div>
+              <div style="align-self: stretch; color: black; font-size: 18px; font-family: Roboto; font-weight: 400; line-height: 27px; word-wrap: break-word">Aplikasi IntRich telah membantu ribuan pengguna untuk mengatasi masalah kuota internet. Dengan fitur yang inovatif, pengguna dapat membeli kuota meskipun sedang offline.</div>
+            </div>
+          </div>
+          <div style="justify-content: flex-start; align-items: center; gap: 24px; display: inline-flex">
+            <div style="padding-left: 24px; padding-right: 24px; padding-top: 12px; padding-bottom: 12px; border: 1px black solid; justify-content: center; align-items: center; gap: 8px; display: flex">
+              <div style="color: black; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Pelajari</div>
+            </div>
+            <div style="justify-content: center; align-items: center; gap: 8px; display: flex">
+              <div style="color: black; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Gabung</div>
+              <div style="width: 24px; height: 24px; padding-top: 5.54px; padding-bottom: 7.05px; padding-left: 8.29px; padding-right: 8.59px; justify-content: center; align-items: center; display: flex">
+                <div style="width: 7.12px; height: 11.41px; background: black"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 48px; display: inline-flex">
+          <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+            <div style="flex: 1 1 0; padding-left: 32px; border-left: 2px black solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+              <div style="align-self: stretch; color: black; font-size: 80px; font-family: Roboto; font-weight: 700; line-height: 104px; word-wrap: break-word">75%</div>
+              <div style="align-self: stretch; color: black; font-size: 20px; font-family: Roboto; font-weight: 700; line-height: 28px; word-wrap: break-word">Pengguna Puas</div>
+            </div>
+            <div style="flex: 1 1 0; padding-left: 32px; border-left: 2px black solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+              <div style="align-self: stretch; color: black; font-size: 80px; font-family: Roboto; font-weight: 700; line-height: 104px; word-wrap: break-word">90%</div>
+              <div style="align-self: stretch; color: black; font-size: 20px; font-family: Roboto; font-weight: 700; line-height: 28px; word-wrap: break-word">Transaksi Sukses</div>
+            </div>
+          </div>
+          <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+            <div style="flex: 1 1 0; padding-left: 32px; border-left: 2px black solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+              <div style="align-self: stretch; color: black; font-size: 80px; font-family: Roboto; font-weight: 700; line-height: 104px; word-wrap: break-word">85%</div>
+              <div style="align-self: stretch; color: black; font-size: 20px; font-family: Roboto; font-weight: 700; line-height: 28px; word-wrap: break-word">Masalah Teratasi</div>
+            </div>
+            <div style="flex: 1 1 0; padding-left: 32px; border-left: 2px black solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+              <div style="align-self: stretch; color: black; font-size: 80px; font-family: Roboto; font-weight: 700; line-height: 104px; word-wrap: break-word">95%</div>
+              <div style="align-self: stretch; color: black; font-size: 20px; font-family: Roboto; font-weight: 700; line-height: 28px; word-wrap: break-word">Pengguna Aktif</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="height: 985.46px; padding-left: 32px; padding-right: 32px; padding-top: 140px; padding-bottom: 140px; left: 265px; top: 5063px; position: absolute; flex-direction: column; justify-content: center; align-items: center; gap: 60px; display: inline-flex">
+      <div style="align-self: stretch; text-align: center; color: #212529; font-size: 70px; font-family: Inter; font-weight: 700; line-height: 84px; word-wrap: break-word">Testimoni Pelanggan</div>
+      <div style="width: 193.58px; height: 47.24px; position: relative">
+        <div style="width: 192.47px; height: 47.24px; left: 0px; top: 0px; position: absolute; background: #FFE492"></div>
+        <div style="width: 5.18px; height: 1.25px; left: 14.05px; top: 12.17px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2.43px; height: 0.59px; left: 184.18px; top: 25.17px; position: absolute; background: #FFE492"></div>
+        <div style="width: 1.94px; height: 0.51px; left: 181.09px; top: 24.80px; position: absolute; background: #FFE492"></div>
+        <div style="width: 2.31px; height: 0.56px; left: 58.54px; top: 3.56px; position: absolute; background: #FFE492"></div>
+        <div style="width: 1.30px; height: 0.59px; left: 5.26px; top: 16.92px; position: absolute; background: #FFE492"></div>
+        <div style="width: 1.63px; height: 0.47px; left: 144.11px; top: 16.88px; position: absolute; background: #FFE492"></div>
+        <div style="width: 1.12px; height: 0.51px; left: 192.46px; top: 33.91px; position: absolute; background: #FFE492"></div>
+        <div style="width: 1.26px; height: 0.40px; left: 107.59px; top: 0.28px; position: absolute; background: #FFE492"></div>
+        <div style="width: 1.07px; height: 0.35px; left: 189.13px; top: 25.87px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.79px; height: 0.48px; left: 148.58px; top: 17.25px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.80px; height: 0.31px; left: 183.01px; top: 25.08px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.79px; height: 0.30px; left: 163.20px; top: 21.81px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.80px; height: 0.31px; left: 162.07px; top: 21.73px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.80px; height: 0.31px; left: 147.15px; top: 17.21px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.80px; height: 0.31px; left: 146.38px; top: 17.09px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.73px; height: 0.32px; left: 160.86px; top: 2.30px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.53px; height: 0.26px; left: 57.45px; top: 4.01px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.54px; height: 0.27px; left: 188.61px; top: 25.78px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.45px; height: 0.28px; left: 149.69px; top: 17.37px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.53px; height: 0.29px; left: 6.50px; top: 16.80px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.47px; height: 0.29px; left: 61.44px; top: 3.40px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.20px; height: 0.24px; left: 188.05px; top: 25.65px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.27px; height: 0.22px; left: 11.02px; top: 45.09px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.26px; height: 0.19px; left: 150.62px; top: 15.28px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.26px; height: 0.19px; left: 149.79px; top: 15.16px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.26px; height: 0.19px; left: 148.99px; top: 15.28px; position: absolute; background: #FFE492"></div>
+        <div style="width: 0.20px; height: 0.24px; left: 148.45px; top: 15.08px; position: absolute; background: #FFE492"></div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 32px; display: inline-flex">
+        <div style="flex: 1 1 0; padding-left: 24px; padding-right: 24px; padding-top: 60px; padding-bottom: 60px; background: white; box-shadow: 15px 10px 50px rgba(0, 0, 0, 0.10); border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
+          <div style="align-self: stretch; height: 189.46px; padding-bottom: 40px; border-bottom: 1px #212529 solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+            <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+              <div style="align-self: stretch; flex: 1 1 0; position: relative">
+                <div style="width: 36.39px; height: 61.46px; left: 49.61px; top: 0px; position: absolute; background: #043873"></div>
+                <div style="width: 36.39px; height: 61.46px; left: 0px; top: 0px; position: absolute; background: #043873"></div>
+              </div>
+            </div>
+            <div style="align-self: stretch; color: black; font-size: 20px; font-family: Roboto; font-weight: 700; line-height: 28px; word-wrap: break-word">"IntRich membuat pembelian kuota jadi lebih mudah!"</div>
+          </div>
+          <div style="width: 383px; justify-content: flex-start; align-items: flex-end; gap: 42px; display: inline-flex">
+            <img style="width: 95px; height: 95px; border-radius: 9999px" src="https://via.placeholder.com/95x95" />
+            <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="color: black; font-size: 16px; font-family: Roboto; font-weight: 600; line-height: 24px; word-wrap: break-word">Rina Santoso</div>
+              <div style="color: black; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Manajer, Telkom Indonesia</div>
+            </div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; padding-left: 24px; padding-right: 24px; padding-top: 60px; padding-bottom: 60px; background: #4F9CF9; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
+          <div style="align-self: stretch; height: 189.46px; padding-bottom: 40px; border-bottom: 1px white solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+            <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+              <div style="align-self: stretch; flex: 1 1 0; position: relative">
+                <div style="width: 36.39px; height: 61.46px; left: 49.61px; top: 0px; position: absolute; background: white"></div>
+                <div style="width: 36.39px; height: 61.46px; left: 0px; top: 0px; position: absolute; background: white"></div>
+              </div>
+            </div>
+            <div style="align-self: stretch; color: black; font-size: 20px; font-family: Roboto; font-weight: 700; line-height: 28px; word-wrap: break-word">Sangat praktis dan efisien untuk pengguna internet!</div>
+          </div>
+          <div style="width: 383px; justify-content: flex-start; align-items: flex-end; gap: 42px; display: inline-flex">
+            <img style="width: 95px; height: 95px; border-radius: 9999px" src="https://via.placeholder.com/95x95" />
+            <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+              <div style="width: 56px; height: 56px; border-radius: 9999px"></div>
+              <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                <div style="color: black; font-size: 16px; font-family: Roboto; font-weight: 600; line-height: 24px; word-wrap: break-word">Budi Setiawan</div>
+                <div style="color: black; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">CEO, SmartTech</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; padding-left: 24px; padding-right: 24px; padding-top: 60px; padding-bottom: 60px; background: #4F9CF9; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
+          <div style="align-self: stretch; height: 161.46px; padding-bottom: 40px; border-bottom: 1px white solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+            <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+              <div style="align-self: stretch; flex: 1 1 0; position: relative">
+                <div style="width: 36.39px; height: 61.46px; left: 49.61px; top: 0px; position: absolute; background: white"></div>
+                <div style="width: 36.39px; height: 61.46px; left: 0px; top: 0px; position: absolute; background: white"></div>
+              </div>
+            </div>
+            <div style="align-self: stretch; color: black; font-size: 20px; font-family: Roboto; font-weight: 700; line-height: 28px; word-wrap: break-word">"Tidak perlu khawatir lagi saat offline!"</div>
+          </div>
+          <div style="width: 383px; justify-content: flex-start; align-items: flex-end; gap: 42px; display: inline-flex">
+            <img style="width: 95px; height: 95px; border-radius: 9999px" src="https://via.placeholder.com/95x95" />
+            <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="color: black; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Karyawan, Indosat</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+        <div style="width: 12px; height: 12px; background: #4F9CF9; border-radius: 9999px"></div>
+        <div style="width: 12px; height: 12px; background: #043873; border-radius: 9999px"></div>
+        <div style="width: 12px; height: 12px; background: #4F9CF9; border-radius: 9999px"></div>
+      </div>
+    </div>
+    <div style="width: 1928px; height: 478px; left: -8px; top: 6978px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+      <div style="align-self: stretch; justify-content: space-between; align-items: flex-start; display: inline-flex">
+        <div style="width: 500px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="align-self: stretch; color: black; font-size: 18px; font-family: Roboto; font-weight: 600; line-height: 27px; word-wrap: break-word">Bergabung dengan newsletter kami</div>
+          <div style="align-self: stretch; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Dapatkan informasi terkini dan penawaran menarik dari kami.</div>
+        </div>
+        <div style="width: 400px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+            <div style="flex: 1 1 0; height: 48px; padding: 12px; border: 1px black solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+              <div style="flex: 1 1 0; color: #666666; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Masukkan email Anda</div>
+            </div>
+            <div style="height: 48px; padding-left: 24px; padding-right: 24px; padding-top: 12px; padding-bottom: 12px; border: 1px black solid; justify-content: center; align-items: center; gap: 8px; display: flex">
+              <div style="color: black; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Langganan</div>
+            </div>
+          </div>
+          <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+            <div style="color: black; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 18px; word-wrap: break-word">Dengan berlangganan, Anda setuju dengan Kebijakan Privasi kami.</div>
+            <div style="color: black; font-size: 12px; font-family: Roboto; font-weight: 400; text-decoration: underline; line-height: 18px; word-wrap: break-word">Kebijakan Privasi</div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 40px; display: inline-flex">
+        <div style="width: 95px; height: 18px"></div>
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="align-self: stretch; color: black; font-size: 16px; font-family: Roboto; font-weight: 600; line-height: 24px; word-wrap: break-word">Kolom Satu</div>
+          <div style="align-self: stretch; height: 185px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Satu</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Dua</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Tiga</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Empat</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Lima</div>
+            </div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="align-self: stretch; color: black; font-size: 16px; font-family: Roboto; font-weight: 600; line-height: 24px; word-wrap: break-word">Kolom Dua</div>
+          <div style="align-self: stretch; height: 185px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Enam</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Tujuh</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Delapan</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Sembilan</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Sepuluh</div>
+            </div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="align-self: stretch; color: black; font-size: 16px; font-family: Roboto; font-weight: 600; line-height: 24px; word-wrap: break-word">Kolom Tiga</div>
+          <div style="align-self: stretch; height: 185px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Sebelas</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Dua Belas</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Tiga Belas</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Empat Belas</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Lima Belas</div>
+            </div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="align-self: stretch; color: black; font-size: 16px; font-family: Roboto; font-weight: 600; line-height: 24px; word-wrap: break-word">Kolom Empat</div>
+          <div style="align-self: stretch; height: 185px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Enam Belas</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Tujuh Belas</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Delapan Belas</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Sembilan Belas</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Dua Puluh</div>
+            </div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="align-self: stretch; color: black; font-size: 16px; font-family: Roboto; font-weight: 600; line-height: 24px; word-wrap: break-word">Kolom Lima</div>
+          <div style="align-self: stretch; height: 185px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Dua Puluh Satu</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Dua Puluh Dua</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Dua Puluh Tiga</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Dua Puluh Empat</div>
+            </div>
+            <div style="align-self: stretch; padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Tautan Dua Puluh Lima</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; height: 57px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+        <div style="align-self: stretch; height: 1px; background: black; border: 1px black solid"></div>
+        <div style="align-self: stretch; justify-content: space-between; align-items: flex-start; display: inline-flex">
+          <div style="justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+            <div style="color: black; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">© 2024 Relume. Semua hak dilindungi.</div>
+            <div style="justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+              <div style="color: black; font-size: 14px; font-family: Roboto; font-weight: 400; text-decoration: underline; line-height: 21px; word-wrap: break-word">Privacy Policy</div>
+              <div style="color: black; font-size: 14px; font-family: Roboto; font-weight: 400; text-decoration: underline; line-height: 21px; word-wrap: break-word">Syarat Layanan</div>
+              <div style="color: black; font-size: 14px; font-family: Roboto; font-weight: 400; text-decoration: underline; line-height: 21px; word-wrap: break-word">Pengaturan Cookies</div>
+            </div>
+          </div>
+          <div style="justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+            <div style="width: 24px; height: 24px; padding-top: 2.24px; padding-bottom: 1.76px; padding-left: 2px; padding-right: 2px; justify-content: center; align-items: center; display: flex">
+              <div style="width: 20px; height: 20px; background: black"></div>
+            </div>
+            <div style="width: 24px; height: 24px; padding-top: 3.24px; padding-bottom: 2.76px; padding-left: 3px; padding-right: 3px; justify-content: center; align-items: center; display: flex">
+              <div style="width: 18px; height: 18px; background: black"></div>
+            </div>
+            <div style="width: 24px; height: 24px; padding-top: 4.24px; padding-bottom: 3.76px; padding-left: 3px; padding-right: 3px; justify-content: center; align-items: center; display: flex">
+              <div style="width: 18px; height: 16px; background: black"></div>
+            </div>
+            <div style="width: 24px; height: 24px; padding-top: 3.24px; padding-bottom: 2.76px; padding-left: 3px; padding-right: 3px; justify-content: center; align-items: center; display: flex">
+              <div style="width: 18px; height: 18px; background: black"></div>
+            </div>
+            <div style="width: 24px; height: 24px; padding-top: 5px; padding-bottom: 4.99px; padding-left: 1.99px; padding-right: 2px; justify-content: center; align-items: center; display: flex">
+              <div style="width: 20.01px; height: 14.01px; background: black"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="left: 1397px; top: 5705px; position: absolute; color: black; font-size: 16px; font-family: Roboto; font-weight: 600; line-height: 24px; word-wrap: break-word">Boy Suryo</div>
+  </div>
